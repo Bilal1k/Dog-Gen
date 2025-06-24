@@ -1,2 +1,3 @@
-# Dog-Gen
 GAN Generator for Dog Images
+
+The project involves generating realistic dog images using generative deep learning models. The objective is to train a model that can learn the underlying distribution of real dog images and synthesize new, high-quality images that are visually convincing. This task falls under the domain of generative modeling, with models like Generative Adversarial Networks (GANs) commonly used due to their ability to learn complex data distributions. The Stanford Dogs Dataset consists of approximately 12,000 color images of dogs, organized into subdirectories by breed. Each image is in JPG format, with varying dimensions and aspect ratios, though they are typically resized and center-cropped to 64×64×3 for model training. The dataset has no associated labels, making it suitable for unsupervised generative tasks. [Link to Images](http://vision.stanford.edu/aditya86/ImageNetDogs/images.tar)
